@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.card {
+    max-width: 350px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid #777;
+    border-radius: 10px;
+    background: #f9f9f9;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+select {
+    margin-top: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
